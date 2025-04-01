@@ -1,0 +1,14 @@
+{
+  "name": "mcp-perplexity-server",
+  "version": "1.0.0",
+  "description": "MCP server implementation for Perplexity API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1"
+  },
+  "bin": "index.js"
+}
